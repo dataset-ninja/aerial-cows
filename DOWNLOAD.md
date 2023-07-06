@@ -1,6 +1,6 @@
 Dataset **Aerial Cows** can be downloaded in Supervisely format:
 
- [Download](https://assets.supervise.ly/supervisely-supervisely-assets-public/teams_storage/h/7/nl/ub8YopkOzIHTURYIpZ0uEG5VqDk4hVU7fOxwkLMCdxFMMqbrbsYcMkwsdO1bKszf7hcTUG8Qm2y1ucnXV7eULaZJHgFOML205yiMbXYvDtpC4bklxBtmhrCF92SG.tar)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/h/7/nl/ub8YopkOzIHTURYIpZ0uEG5VqDk4hVU7fOxwkLMCdxFMMqbrbsYcMkwsdO1bKszf7hcTUG8Qm2y1ucnXV7eULaZJHgFOML205yiMbXYvDtpC4bklxBtmhrCF92SG.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
